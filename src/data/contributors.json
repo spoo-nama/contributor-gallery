@@ -15,5 +15,12 @@
     "bio": "Host of Hacktoberfest session",
     "avatar": "https://github.com/SnehalMeshram09.png"
   }
-  
+  {
+    "name": "Spoorthi Nama",
+    "github": "spoo-nama",
+    "role": "Workshop participant",
+    "location": "Pune, India",
+    "bio": "Participant at Hacktoberfest session",
+    "avatar": "https://github.com/SnehalMeshram09.png"
+  }
 ]
